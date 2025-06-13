@@ -1,0 +1,13 @@
+{
+    "daily_mood_streak": 0,
+    "last_mood_log_date": null,
+    "emotion_streaks": {
+        "fear": 0.929596,
+        "neutral": 1.168591,
+        "happy": 14.724905,
+        "angry": 3.170898,
+        "sad": 0.199406,
+        "disgust": 0.066088,
+        "surprise": 2.023019
+    }
+}

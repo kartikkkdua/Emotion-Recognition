@@ -1,0 +1,8 @@
+{
+    "speech_enabled": false,
+    "music_toast_enabled": false,
+    "speech_frequency": 5,
+    "alert_emotion": "None",
+    "alert_duration": 30,
+    "theme": "light"
+}

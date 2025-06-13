@@ -1,0 +1,13 @@
+{
+    "goals": [
+        {
+            "id": "goal_1_20250609224648444735",
+            "emotion": "happy",
+            "type": "increase",
+            "target_percent_change": 5,
+            "start_date": "2025-06-09",
+            "end_date": "2025-07-09",
+            "status": "active"
+        }
+    ]
+}

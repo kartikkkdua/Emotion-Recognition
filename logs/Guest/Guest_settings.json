@@ -1,0 +1,8 @@
+{
+    "speech_enabled": true,
+    "music_toast_enabled": true,
+    "speech_frequency": 10,
+    "alert_emotion": "angry",
+    "alert_duration": 30,
+    "theme": "light"
+}
